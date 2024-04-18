@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/scratchbg.jpg");
+}
+ol{
+    padding: 25px;
+    margin: 0 auto;
+    display: block;
+    width: fit-content;
+}
+.heading{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";    display: block !important;
+    color: white;
+}
+.white{
+    color: white;
+}
+.blue{
+    color: aqua;
+    margin-bottom: 50px;
+}
+.fit-right{
+    margin: 3rem;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding-bottom: 25px;
+}
+.video-container{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tableau{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.frame-border{
+    width: 560px;
+    height: 315px;
+}
